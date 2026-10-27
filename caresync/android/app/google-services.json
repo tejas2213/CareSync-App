@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "998438347964",
+    "firebase_url": "https://krushi-sahayak-5c2db-default-rtdb.firebaseio.com",
+    "project_id": "krushi-sahayak-5c2db",
+    "storage_bucket": "krushi-sahayak-5c2db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998438347964:android:e3d91a1c9eee6623dddcb9",
+        "android_client_info": {
+          "package_name": "com.example.caresync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998438347964-2u91s6go22ibm0icobdgm16nnlulgcf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_VhtGctuC0mWwRvAqak2ElIHU9qtmpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998438347964-2u91s6go22ibm0icobdgm16nnlulgcf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
